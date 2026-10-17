@@ -1,2 +1,2 @@
-# stud.proj
-stud 
+# student.project
+student pfp
